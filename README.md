@@ -31,6 +31,5 @@ This project is aimed at transforming the traditional retail operations of Kutty
   - MS Office
   - Canva
   - XAMPP
-
 ## System Architecture
 The system architecture follows a layered approach, separating the frontend and backend components. The architecture ensures a clear separation of concerns and a structured development process.
